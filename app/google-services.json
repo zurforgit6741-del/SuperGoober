@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831870675629",
+    "project_id": "supergoober-8036c",
+    "storage_bucket": "supergoober-8036c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831870675629:android:f1e2bc91d655b03643b424",
+        "android_client_info": {
+          "package_name": "com.example.supergoober"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Slc2ib7W3x0RTfl-F8LCID9idIb19V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
